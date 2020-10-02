@@ -49,3 +49,10 @@ Visualize Travel Data
  3. Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
  4. Store the name of the first hotel in the DataFrame.
  5. Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+ 
+ ## Results
+ <img width="1015" alt="Screen Shot 2020-10-02 at 2 37 25 PM" src="https://user-images.githubusercontent.com/66881241/94971921-f07cb700-04bc-11eb-890b-a8f1b624bbde.png">
+ 
+<img width="998" alt="Screen Shot 2020-10-02 at 2 37 18 PM" src="https://user-images.githubusercontent.com/66881241/94971932-f377a780-04bc-11eb-8e25-71c593a8fba7.png">
+
+<img width="1039" alt="Screen Shot 2020-10-02 at 2 37 10 PM" src="https://user-images.githubusercontent.com/66881241/94971939-f6729800-04bc-11eb-9805-30a502b39a6f.png">
